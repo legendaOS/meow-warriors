@@ -1,4 +1,4 @@
-# meow-warriors
+# Meow warriors
  
 ## Игра про бравых котов
 
